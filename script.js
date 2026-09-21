@@ -17,7 +17,7 @@ const CONFIG = {
   shippingText: "সারাদেশে ডেলিভারি চার্জ ফ্রী",
 
   youtubeId: "",                   // ইউটিউব ভিডিও লিংকের v= এর পরের অংশ; ফাঁকা রাখলে ভিডিও সেকশন লুকানো থাকবে
-  productThumb: "images/product.jpg",
+  productThumb: "product.jpg",
 
   // ঐচ্ছিক: Formspree/Google Apps Script এর লিংক দিলে অর্ডার ওখানেও জমা হবে
   formEndpoint: ""
